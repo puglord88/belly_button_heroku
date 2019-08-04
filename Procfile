@@ -1,0 +1,1 @@
+web: gunicorn belly_button_heroku.app:app
